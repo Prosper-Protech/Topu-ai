@@ -547,7 +547,7 @@ const {
    }
  });
  cmd({
-   pattern: "tagall",
+   pattern: "proall",
    desc: "Tags every person of group.",
    category: "group",
    filename: __filename
@@ -966,8 +966,8 @@ const {
    }
  });
  smd({
-   pattern: "tag",
-   alias: ["hidetag"],
+   pattern: "protag",
+   alias: ["protech"],
    desc: "Tags everyperson of group without mentioning their numbers",
    category: "group",
    filename: __filename,
