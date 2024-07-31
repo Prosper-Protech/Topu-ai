@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/4c2819e618d8946926b82.jpg";
 global.devs = "237673805208";
 global.sudo = process.env.SUDO || "237673805208";
 global.owner = process.env.OWNER_NUMBER || "237673805208";
@@ -56,7 +56,7 @@ module.exports = {
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "Us2pP4zzoiWjzaWQnoEkUq3Q",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "sk-proj-IEsOXHzabn0WU1n317wNT3BlbkFJDuolINuD6XaMnxJxfR12",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   antilink_values: process.env.ANTILINK_VALUES || "all",
