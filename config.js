@@ -16,7 +16,7 @@ global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Dar es sala
 global.github = process.env.GITHUB || "https://github.com/Toputech/Topu-ai";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaEW2eE3WHTU7fTQht19";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/xk46jg.jpg";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.imgur.com/7wHQXOG.jpeg";
 global.devs = "237673805208";
 global.sudo = process.env.SUDO || "237673805208";
 global.owner = process.env.OWNER_NUMBER || "237673805208";
@@ -47,11 +47,11 @@ module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".,$,&,+,-,*,?,~,|,•,→,©,®,™,cyber,✓,!,#,/,@",
   BRANCH: process.env.BRANCH || "main",
-  VERSION: process.env.VERSION || "3.3.4",
+  VERSION: process.env.VERSION || "4",
   caption: process.env.CAPTION || "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐛𝐲 𝐏𝐫𝐨𝐓𝐞𝐜𝐡 𝐟𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧",
-  author: process.env.PACK_AUTHER || "CYBERDEX",
+  author: process.env.PACK_AUTHER || "LINNEA",
   packname: process.env.PACK_NAME || "🧑‍🎄",
-  botname: process.env.BOT_NAME || "cyвerdeх",
+  botname: process.env.BOT_NAME || "Linnea_MD",
   ownername: process.env.OWNER_NAME || "PROTECH",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
