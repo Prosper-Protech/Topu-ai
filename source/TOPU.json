@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
     "AUTHOR": "Protech-md",
-    "theme": "cyberdex",
+    "theme": "linnea",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
     "STRINGS": { 
@@ -10,16 +10,16 @@
             "UPDATED_LOCAL": "Updated Bot successfully"
         },  
         "global": {      
-            "botName": "🎃HALLOWEEN-md𓃬𓃬𓃬𓃬",
+            "botName": "LINNEA_md𓃬𓃬𓃬𓃬",
             "body": "Simple WhatsApp Bot", 
             "greet2" : "GoodDay SIR",
-            "pic1": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic2": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic3": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic4": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic5": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic6": "https://files.catbox.moe/xk46jg.jpg", 
-            "pic7": "https://files.catbox.moe/xk46jg.jpg",
+            "pic1": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic2": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic3": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic4": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic5": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic6": "https://i.imgur.com/7wHQXOG.jpeg", 
+            "pic7": "https://i.imgur.com/7wHQXOG.jpeg",
             "greet" : "Hey there",
             "dotbody" : "Oh Sir Protech md My Creator.",
             "emojii" : "🍑", 
