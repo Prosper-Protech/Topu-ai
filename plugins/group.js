@@ -969,7 +969,7 @@ const {
  });
  smd({
    pattern: "🌝",
-   alias: ["protech", "ALONE"],
+   alias: ["linnea", "ALONE"],
    desc: "Tags everyperson of group without mentioning their numbers",
    category: "group",
    filename: __filename,
